@@ -1,0 +1,5 @@
+body{font-family:monospace;background:#c62828;color:#111;margin:0;padding:1rem}
+header{background:#8b0000;color:white;padding:1rem;border-radius:12px}
+#search{width:100%;padding:.8rem;margin:1rem 0}
+#list{display:grid;gap:.5rem}
+.card{background:#9bbc0f;padding:.8rem;border-radius:10px}
